@@ -1,0 +1,538 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+    display: block;
+    color: -internal-root-color;
+}
+head {
+    display: none;
+}
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+    color: -internal-root-color;
+}
+title {
+    display: none;
+}
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+html {
+    color: -internal-root-color;
+}
+link {
+    display: none;
+}
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+user agent stylesheet
+html {
+    color: -internal-root-color;
+}
+head {
+    display: none;
+}
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+user agent stylesheet
+html {
+    color: -internal-root-color;
+}
+title {
+    display: none;
+}
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+user agent stylesheet
+html {
+    color: -internal-root-color;
+}
+link {
+    display: none;
+}
+head {
+    display: none;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+.topBar {
+    text-align: right;
+    padding-top: 1px;
+    padding-right: 2px;
+    color: #535353;
+}
+margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px
+    .topBar li {
+    display: inline;
+    margin: 0;
+    padding: 0;
+    font-size: small;
+}
+.topBar li {
+    display: inline;
+    margin: 0;
+    padding: 0;
+    font-size: small;
+}
+#images {
+    margin: 3px;
+}
+.topBar li {
+    display: inline;
+    margin: 0;
+    padding: 0;
+    font-size: small;
+}
+#signin {
+    background-color: #4583EC;
+    margin: 10px;
+    padding: 8px 10px;
+    color: white;
+    font-weight: bold;
+}
+.topBar li {
+    display: inline;
+    margin: 0;
+    padding: 0;
+    font-size: small;
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.topBar {
+    text-align: right;
+    padding-top: 1px;
+    padding-right: 2px;
+    color: #535353;
+}
+.logo {
+    padding-top: 112px;
+}
+.logo, .searchForm, .buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+user agent stylesheet
+html {
+    color: -internal-root-color;
+}
+.searchForm, .buttons {
+    padding-top: 10px;
+}
+.logo, .searchForm, .buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+form {
+    display: block;
+    margin-top: 0em;
+}
+.searchForm, .buttons {
+    padding-top: 10px;
+}
+.logo, .searchForm, .buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#search {
+    margin-top: 10px;
+    -webkit-appearance: searchfield-decoration;
+    border-radius: 10px;
+    width: 500px;
+    height: 30px;
+}
+user agent stylesheet
+input {
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    -webkit-appearance: textfield;
+    background-color: white;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    padding: 1px 0px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial;
+}
+#googleSearch {
+    padding-right: 10px;
+    margin-right: 10px;
+    height: 30px;
+}
+user agent stylesheet
+input[type="submit" i] {
+    -webkit-appearance: push-button;
+    user-select: none;
+    white-space: pre;
+    align-items: flex-start;
+    text-align: center;
+    cursor: default;
+    color: buttontext;
+    background-color: buttonface;
+    box-sizing: border-box;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonface;
+    border-image: initial;
+}
+user agent stylesheet
+input {
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    -webkit-appearance: textfield;
+    background-color: white;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    padding: 1px 0px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial;
+}
+input[type="submit" i] {
+    -webkit-appearance: push-button;
+    user-select: none;
+    white-space: pre;
+    align-items: flex-start;
+    text-align: center;
+    cursor: default;
+    color: buttontext;
+    background-color: buttonface;
+    box-sizing: border-box;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonface;
+    border-image: initial;
+}
+user agent stylesheet
+input {
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    -webkit-appearance: textfield;
+    background-color: white;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    padding: 1px 0px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial;
+}
+.buttons {
+    -webkit-appearance: searchfield-results-button;
+    margin: 10px;
+    padding: 10px;
+}
+.searchForm, .buttons {
+    padding-top: 10px;
+}
+.logo, .searchForm, .buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
+form {
+    display: block;
+    margin-top: 0em;
+}
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.searchForm, .buttons {
+    padding-top: 10px;
+}
+.logo, .searchForm, .buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.footer {
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+    background-color: #f2f2f2;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.bottomBarOne {
+    position: relative;
+    border-top: 1px solid gray;
+    padding-left: 20px;
+    color: #535353;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.bottomBarOne {
+    position: relative;
+    border-top: 1px solid gray;
+    padding-left: 20px;
+    color: #535353;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.bottomBarOne {
+    position: relative;
+    border-top: 1px solid gray;
+    padding-left: 20px;
+    color: #535353;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.bottomBarTwo {
+    border-top: 1px solid gray;
+    font-size: 13px;
+    margin: 0;
+    color: #535353;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+#bottomOne {
+    float: left;
+    text-align: left;
+}
+user agent stylesheet
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+#bottomOne li {
+    padding-left: 20px;
+}
+.footer li {
+    display: inline;
+}
+user agent stylesheet
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+#bottomOne li {
+    padding-left: 20px;
+}
+.footer li {
+    display: inline;
+}
+user agent stylesheet
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+#bottomOne {
+    float: left;
+    text-align: left;
+}
+user agent stylesheet
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+#bottomOne li {
+    padding-left: 20px;
+}
+.footer li {
+    display: inline;
+}
+user agent stylesheet
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+#bottomOne {
+    float: left;
+    text-align: left;
+}
+user agent stylesheet
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.footer li {
+    display: inline;
+}
+user agent stylesheet
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.footer li {
+    display: inline;
+}
+user agent stylesheet
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.footer li {
+    display: inline;
+}
+user agent stylesheet
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+#bottomTwo {
+    float: right;
+    padding-right: 20px;
+}
+user agent stylesheet
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.bottomBarTwo {
+    border-top: 1px solid gray;
+    font-size: 13px;
+    margin: 0;
+    color: #535353;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.footer {
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+    background-color: #f2f2f2;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+user agent stylesheet
+html {
+    display: block;
+    color: -internal-root-color;
+}
