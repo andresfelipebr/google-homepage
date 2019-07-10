@@ -53,3 +53,4 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 
 MANUELL@MANUEL MINGW64 ~/google-homepage (master)
+From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
